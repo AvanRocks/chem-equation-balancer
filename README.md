@@ -38,7 +38,7 @@ Then type the chemical equation you wish to balance, keeping a few things in min
 
 - Seperate compounds with a plus sign (`+`)
 
-- Replace unchanging polyatomic ions with another capital letter when inputting. For ex. replace `SO_4` with `Z`.
+- Replace unchanging polyatomic ions with another capital letter when inputting. For ex. replace `SO_4` with `Z` on both sides.
 
 Any other characters you add besides letters, numbers, `=`, `_`, and `+` will be ignored.
 
