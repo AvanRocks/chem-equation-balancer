@@ -7,7 +7,7 @@ To compile the program (written in C++), you will need a c++ compiler (like g++)
 
 ## Linux
 
-If you are on Linux (or Mac, but I haven't tested it) run the following command to compile:
+If you are on Linux, run the following command to compile:
 
 ```
 $ g++ bal.cpp Matrix.cpp -o bal
