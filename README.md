@@ -34,7 +34,7 @@ Then type the chemical equation you wish to balance, keeping a few things in min
 
 - Use an equal sign (not an arrow) to seperate the reactants and products
 
-- Subscripts can be indicated with an underscore, (`Cl_2`) or without (`Cl`), it doesn't matter
+- Subscripts can be indicated with an underscore, (`Cl_2`) or without (`Cl2`), it doesn't matter
 
 - Seperate compounds with a plus sign (`+`)
 
