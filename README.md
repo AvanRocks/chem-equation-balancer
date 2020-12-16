@@ -1,4 +1,4 @@
-# chem-equation-balancer
+# Chemical Equation Balancer
 A Program that balances chemical equations by mass
 
 ## Build
